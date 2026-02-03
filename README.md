@@ -1,6 +1,8 @@
 # FileRenamer
 Java SWING Desktop Application
+
 Author: Seungho Jeong
+
 Project Date: December 22, 2026
 
 Project Description
